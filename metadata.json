@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Virtual Laboratory",
+  "description": "Interactive educational simulation of single-phase and three-phase uncontrolled diode and fully controlled thyristor rectifiers with dynamic waveforms, circuit schematics, harmonic FFT analysis, and experimental lab procedures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
